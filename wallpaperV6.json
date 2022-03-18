@@ -8,7 +8,7 @@
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
       "interval_intertitial": 5,
-      "initialize_sdk":"107355779",
+      "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
@@ -23,42 +23,21 @@
   [
     {
       "id":1,
-      "title":"Ludo King",
-      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+      "title":"White Tailed Deer Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/PFUaXYiWiWktIdFVkhvforhmHX2OAWU43RznGJZLfS7mhyS6nxYDFzmBxGSfa_HdLGn1=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.qanjerumbi.whitetaileddeer.wallpaper"
     },
     {
       "id":2,
-      "title":"Homescapes",
-      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+      "title":"Duck Bird Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/wJvEwTJTcF6IeUnjhl63twr-Z7nj9Uw6lLvn-aqP4DbFbqGjQl0uw0M8i-LSSvMzBg=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.qanjerumbi.duckbirdwallpaper"
     },
     {
       "id":3,
-      "title":"Minecraft",
-      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
-    }
-  ],
-
-  "Categories": [
-    {
-      "id": 1,
-      "name_category": "Nature",
-      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
-
-    },
-    {
-      "id": 2,
-      "name_category": "Animal",
-      "image": "http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
-
-    },
-    {
-      "id": 3,
-      "name_category": "Car",
-      "image": "file:///android_asset/image/car.jpg"
-
+      "title":"Dinosaur Wallpapers",
+      "image":"https://play-lh.googleusercontent.com/SOB2vVv8dpVRiwDHZFce2Sq9X7wHRWNhucGgOFVHqVfOjO8St5dKOXvoh8SKZrpoc60=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.dinosaur.wallpapers"
     }
   ],
 
